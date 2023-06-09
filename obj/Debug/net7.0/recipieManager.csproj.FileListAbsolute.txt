@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\bin\Debug\net7.0\recipieManager.exe
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\bin\Debug\net7.0\recipieManager.deps.json
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\bin\Debug\net7.0\recipieManager.runtimeconfig.json
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\bin\Debug\net7.0\recipieManager.dll
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\bin\Debug\net7.0\recipieManager.pdb
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\recipieManager.csproj.AssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\recipieManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\recipieManager.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\recipieManager.AssemblyInfo.cs
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\recipieManager.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\recipieManager.dll
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\refint\recipieManager.dll
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\recipieManager.pdb
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\recipieManager.genruntimeconfig.cache
+C:\Users\Jonas\Documents\GitHub\cse210\recipieManager\obj\Debug\net7.0\ref\recipieManager.dll

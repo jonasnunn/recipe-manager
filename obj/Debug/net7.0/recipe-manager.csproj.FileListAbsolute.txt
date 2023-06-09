@@ -1,0 +1,15 @@
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\bin\Debug\net7.0\recipe-manager.exe
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\bin\Debug\net7.0\recipe-manager.deps.json
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\bin\Debug\net7.0\recipe-manager.runtimeconfig.json
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\bin\Debug\net7.0\recipe-manager.dll
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\bin\Debug\net7.0\recipe-manager.pdb
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\recipe-manager.csproj.AssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\recipe-manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\recipe-manager.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\recipe-manager.AssemblyInfo.cs
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\recipe-manager.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\recipe-manager.dll
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\refint\recipe-manager.dll
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\recipe-manager.pdb
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\recipe-manager.genruntimeconfig.cache
+C:\Users\Jonas\Documents\GitHub\cse210\recipe-manager\obj\Debug\net7.0\ref\recipe-manager.dll

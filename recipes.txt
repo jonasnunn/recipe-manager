@@ -1,0 +1,12 @@
+sandwich
+5
+peanut butter,bread,jelly
+put jelly on bread,put peanut butter on bread,put together
+hamburger
+15
+beef,buns,lettuce,tomato
+cook the beef,put it on the buns,cut tomatoes
+Chicken Salad
+5
+canned chicken,mayo,salt and pepper,apples
+mix all ingridients together,put on a piece of bread 
